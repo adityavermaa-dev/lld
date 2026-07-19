@@ -1,4 +1,4 @@
-package relations.usesorcallsreleation;
+package relations.association;
 
 public class ParkingSpot {
     private int spotNumber; 
