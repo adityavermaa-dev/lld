@@ -1,8 +1,4 @@
-package simple_design_pattern;
-
-import simple_design_pattern.logger.ILogger;
-import simple_design_pattern.logger.LogLevel;
-import simple_design_pattern.logger.LoggerFactory;
+package simple_design_pattern.logger;
 
 public class Main {
     public static void main(String[] args) {
